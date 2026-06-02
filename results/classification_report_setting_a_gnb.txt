@@ -1,0 +1,11 @@
+Setting A: Background-only | Gaussian Naive Bayes
+================================================================================
+
+              precision    recall  f1-score   support
+
+Graduate (0)       0.57      0.03      0.05       442
+ Dropout (1)       0.39      0.97      0.56       284
+
+    accuracy                           0.40       726
+   macro avg       0.48      0.50      0.30       726
+weighted avg       0.50      0.40      0.25       726

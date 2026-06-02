@@ -1,0 +1,216 @@
+Encoded Feature,Original Feature,Importance
+Age at enrollment,Age at enrollment,0.06759828
+Course_12,Course,0.044400997
+Application mode_12,Application mode,0.04373389
+Gender_1,Gender,0.03977514
+Application mode_1,Application mode,0.03942324
+Gender_0,Gender,0.039096203
+Father's qualification_28,Father's qualification,0.03442003
+Course_16,Course,0.031457894
+Course_7,Course,0.026589572
+Course_10,Course,0.025599713
+Mother's occupation_1,Mother's occupation,0.024770344
+Mother's qualification_19,Mother's qualification,0.023034764
+Father's qualification_1,Father's qualification,0.021583112
+Father's occupation_12,Father's occupation,0.020589516
+Course_5,Course,0.020403743
+Course_2,Course,0.020175276
+Father's occupation_7,Father's occupation,0.019549318
+Father's occupation_8,Father's occupation,0.019362489
+Course_8,Course,0.018663552
+Course_11,Course,0.016952766
+Marital status_2,Marital status,0.015459514
+Mother's occupation_12,Mother's occupation,0.015066286
+Course_9,Course,0.014900726
+Displaced_1,Displaced,0.014873221
+Application mode_8,Application mode,0.014619919
+Course_3,Course,0.014320169
+Mother's qualification_10,Mother's qualification,0.014189402
+Marital status_1,Marital status,0.01356166
+Mother's occupation_10,Mother's occupation,0.012731816
+Mother's qualification_23,Mother's qualification,0.011805209
+Course_15,Course,0.011366879
+GDP,GDP,0.010867402
+Mother's occupation_7,Mother's occupation,0.010731951
+Mother's qualification_3,Mother's qualification,0.010062717
+Father's qualification_3,Father's qualification,0.0099842595
+Father's occupation_10,Father's occupation,0.009360939
+Father's qualification_24,Father's qualification,0.009266072
+Father's occupation_5,Father's occupation,0.009212803
+Course_14,Course,0.009164503
+Application mode_14,Application mode,0.008886884
+Displaced_0,Displaced,0.008806315
+Daytime/evening attendance_1,Daytime/evening attendance,0.008564453
+Application mode_9,Application mode,0.008123723
+Inflation rate,Inflation rate,0.008110561
+Father's occupation_4,Father's occupation,0.007620114
+Father's qualification_14,Father's qualification,0.007589417
+Application order,Application order,0.007520725
+Application mode_4,Application mode,0.007366181
+Unemployment rate,Unemployment rate,0.007274009
+Father's qualification_2,Father's qualification,0.0071227415
+Mother's occupation_8,Mother's occupation,0.006739318
+Nacionality_1,Nacionality,0.00635999
+Father's qualification_27,Father's qualification,0.0063311104
+Mother's occupation_6,Mother's occupation,0.00626123
+Previous qualification_12,Previous qualification,0.0061959117
+Mother's qualification_22,Mother's qualification,0.006138017
+Mother's occupation_5,Mother's occupation,0.0059109633
+Mother's qualification_13,Mother's qualification,0.005678996
+Mother's occupation_9,Mother's occupation,0.005329221
+Mother's occupation_3,Mother's occupation,0.0051249387
+Course_6,Course,0.004677
+Father's occupation_6,Father's occupation,0.0042244317
+Father's qualification_4,Father's qualification,0.004028801
+Father's occupation_11,Father's occupation,0.0032830085
+Mother's qualification_1,Mother's qualification,0.0032743027
+Previous qualification_1,Previous qualification,0.0032299024
+Father's occupation_1,Father's occupation,0.0012600791
+Mother's qualification_20,Mother's qualification,0.00024238207
+Application mode_6,Application mode,0.0
+Application mode_10,Application mode,0.0
+Nacionality_17,Nacionality,0.0
+Application mode_7,Application mode,0.0
+Application mode_2,Application mode,0.0
+Application mode_5,Application mode,0.0
+Nacionality_16,Nacionality,0.0
+Application mode_13,Application mode,0.0
+Application mode_3,Application mode,0.0
+Nacionality_15,Nacionality,0.0
+Nacionality_18,Nacionality,0.0
+International_1,International,0.0
+Nacionality_19,Nacionality,0.0
+Father's occupation_43,Father's occupation,0.0
+Father's occupation_36,Father's occupation,0.0
+Father's occupation_37,Father's occupation,0.0
+Father's occupation_38,Father's occupation,0.0
+Father's occupation_39,Father's occupation,0.0
+Father's occupation_40,Father's occupation,0.0
+Father's occupation_41,Father's occupation,0.0
+Father's occupation_42,Father's occupation,0.0
+Father's occupation_44,Father's occupation,0.0
+Application mode_16,Application mode,0.0
+Father's occupation_45,Father's occupation,0.0
+Mother's qualification_4,Mother's qualification,0.0
+Mother's qualification_2,Mother's qualification,0.0
+Educational special needs_0,Educational special needs,0.0
+Educational special needs_1,Educational special needs,0.0
+Nacionality_21,Nacionality,0.0
+International_0,International,0.0
+Application mode_15,Application mode,0.0
+Mother's qualification_26,Mother's qualification,0.0
+Application mode_17,Application mode,0.0
+Previous qualification_11,Previous qualification,0.0
+Previous qualification_3,Previous qualification,0.0
+Previous qualification_4,Previous qualification,0.0
+Previous qualification_5,Previous qualification,0.0
+Previous qualification_6,Previous qualification,0.0
+Previous qualification_7,Previous qualification,0.0
+Previous qualification_8,Previous qualification,0.0
+Previous qualification_9,Previous qualification,0.0
+Previous qualification_13,Previous qualification,0.0
+Application mode_18,Application mode,0.0
+Previous qualification_14,Previous qualification,0.0
+Previous qualification_15,Previous qualification,0.0
+Previous qualification_16,Previous qualification,0.0
+Previous qualification_17,Previous qualification,0.0
+Marital status_5,Marital status,0.0
+Marital status_4,Marital status,0.0
+Marital status_3,Marital status,0.0
+Previous qualification_2,Previous qualification,0.0
+Marital status_6,Marital status,0.0
+Daytime/evening attendance_0,Daytime/evening attendance,0.0
+Course_17,Course,0.0
+Course_1,Course,0.0
+Nacionality_14,Nacionality,0.0
+Nacionality_12,Nacionality,0.0
+Course_4,Course,0.0
+Nacionality_11,Nacionality,0.0
+Father's occupation_33,Father's occupation,0.0
+Nacionality_10,Nacionality,0.0
+Nacionality_9,Nacionality,0.0
+Nacionality_7,Nacionality,0.0
+Nacionality_6,Nacionality,0.0
+Nacionality_5,Nacionality,0.0
+Nacionality_4,Nacionality,0.0
+Course_13,Course,0.0
+Nacionality_3,Nacionality,0.0
+Nacionality_2,Nacionality,0.0
+Father's occupation_35,Father's occupation,0.0
+Father's occupation_23,Father's occupation,0.0
+Father's occupation_32,Father's occupation,0.0
+Father's qualification_33,Father's qualification,0.0
+Mother's qualification_21,Mother's qualification,0.0
+Father's qualification_25,Father's qualification,0.0
+Father's qualification_26,Father's qualification,0.0
+Father's qualification_29,Father's qualification,0.0
+Father's qualification_30,Father's qualification,0.0
+Father's qualification_31,Father's qualification,0.0
+Father's qualification_32,Father's qualification,0.0
+Father's qualification_34,Father's qualification,0.0
+Father's occupation_30,Father's occupation,0.0
+Mother's qualification_18,Mother's qualification,0.0
+Mother's occupation_2,Mother's occupation,0.0
+Mother's occupation_4,Mother's occupation,0.0
+Mother's qualification_17,Mother's qualification,0.0
+Mother's qualification_16,Mother's qualification,0.0
+Mother's occupation_11,Mother's occupation,0.0
+Mother's qualification_15,Mother's qualification,0.0
+Father's qualification_22,Father's qualification,0.0
+Father's qualification_21,Father's qualification,0.0
+Father's qualification_20,Father's qualification,0.0
+Father's qualification_19,Father's qualification,0.0
+Mother's qualification_28,Mother's qualification,0.0
+Mother's qualification_29,Mother's qualification,0.0
+Mother's qualification_25,Mother's qualification,0.0
+Mother's qualification_24,Mother's qualification,0.0
+Father's qualification_5,Father's qualification,0.0
+Father's qualification_6,Father's qualification,0.0
+Father's qualification_7,Father's qualification,0.0
+Father's qualification_8,Father's qualification,0.0
+Father's qualification_9,Father's qualification,0.0
+Father's qualification_10,Father's qualification,0.0
+Father's qualification_11,Father's qualification,0.0
+Father's qualification_12,Father's qualification,0.0
+Father's qualification_16,Father's qualification,0.0
+Father's qualification_17,Father's qualification,0.0
+Father's qualification_18,Father's qualification,0.0
+Mother's occupation_13,Mother's occupation,0.0
+Mother's occupation_15,Mother's occupation,0.0
+Mother's occupation_16,Mother's occupation,0.0
+Mother's qualification_7,Mother's qualification,0.0
+Mother's qualification_6,Mother's qualification,0.0
+Mother's qualification_5,Mother's qualification,0.0
+Father's occupation_13,Father's occupation,0.0
+Father's occupation_15,Father's occupation,0.0
+Father's occupation_16,Father's occupation,0.0
+Father's occupation_17,Father's occupation,0.0
+Father's occupation_18,Father's occupation,0.0
+Father's occupation_20,Father's occupation,0.0
+Father's occupation_21,Father's occupation,0.0
+Father's occupation_22,Father's occupation,0.0
+Mother's qualification_27,Mother's qualification,0.0
+Father's occupation_26,Father's occupation,0.0
+Father's occupation_27,Father's occupation,0.0
+Father's occupation_28,Father's occupation,0.0
+Father's occupation_29,Father's occupation,0.0
+Father's occupation_9,Father's occupation,0.0
+Mother's qualification_8,Mother's qualification,0.0
+Mother's occupation_18,Mother's occupation,0.0
+Mother's qualification_9,Mother's qualification,0.0
+Mother's occupation_19,Mother's occupation,0.0
+Mother's occupation_20,Mother's occupation,0.0
+Mother's occupation_21,Mother's occupation,0.0
+Mother's occupation_22,Mother's occupation,0.0
+Mother's occupation_23,Mother's occupation,0.0
+Mother's occupation_24,Mother's occupation,0.0
+Mother's occupation_25,Mother's occupation,0.0
+Mother's occupation_26,Mother's occupation,0.0
+Mother's occupation_28,Mother's occupation,0.0
+Mother's occupation_30,Mother's occupation,0.0
+Mother's occupation_31,Mother's occupation,0.0
+Mother's occupation_32,Mother's occupation,0.0
+Father's occupation_2,Father's occupation,0.0
+Father's occupation_3,Father's occupation,0.0
+Mother's qualification_11,Mother's qualification,0.0
+Mother's occupation_29,Mother's occupation,0.0

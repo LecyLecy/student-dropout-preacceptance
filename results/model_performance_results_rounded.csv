@@ -1,0 +1,5 @@
+Feature Setting,Model,Accuracy,Precision,Recall,F1-score
+Setting A: Background-only,Gaussian Naive Bayes,0.3953,0.3901,0.9683,0.5561
+Setting A: Background-only,XGBoost,0.7052,0.6232,0.6232,0.6232
+Setting B: Background + Application-related,Gaussian Naive Bayes,0.3994,0.3895,0.9437,0.5514
+Setting B: Background + Application-related,XGBoost,0.7452,0.6737,0.6761,0.6749

@@ -1,0 +1,5 @@
+Feature Setting,Model,TN_Graduate_as_Graduate,FP_Graduate_as_Dropout,FN_Dropout_as_Graduate,TP_Dropout_as_Dropout
+Setting A: Background-only,Gaussian Naive Bayes,12,430,9,275
+Setting A: Background-only,XGBoost,335,107,107,177
+Setting B: Background + Application-related,Gaussian Naive Bayes,22,420,16,268
+Setting B: Background + Application-related,XGBoost,349,93,92,192

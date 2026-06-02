@@ -1,0 +1,11 @@
+Setting A: Background-only | XGBoost
+================================================================================
+
+              precision    recall  f1-score   support
+
+Graduate (0)       0.76      0.76      0.76       442
+ Dropout (1)       0.62      0.62      0.62       284
+
+    accuracy                           0.71       726
+   macro avg       0.69      0.69      0.69       726
+weighted avg       0.71      0.71      0.71       726
